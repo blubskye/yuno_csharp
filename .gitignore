@@ -1,0 +1,30 @@
+# Build results
+bin/
+obj/
+out/
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# Config with secrets
+config.json
+
+# Database
+*.db
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
